@@ -9,7 +9,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 //Miscellaneous
 //-------------
 
-"Find.Undreya": "Huh? Who are you!?#You managed to spot me, huh. Maybe you're who he meant...# Umm... Hey, return here tomorrow night, same time. I want to meet you properly.",
+"Find.Undreya": "Huh? Who are you!?#You managed to spot me, huh? Maybe you're who he meant...# Umm... Hey, return here tomorrow night, same time. I want to meet you properly.",
 "Ember.of.Resolutions": "Ember of Resolutions",
 "EoR.Bonfire": "Should we start the bonfire? It's getting close to midnight now.",
 "EoR.Yes": "Yes, let's start.",
@@ -2442,7 +2442,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 "event-75160105.04": "What!?$u#$b#You thought I was going to jump?$a#$b#Heavens no! I still have so much to live for!$a#$b#What crazy reason made you think I'd jump?$a",
 "event-75160105.05": "Oh! You heard me talk about 'the end'?$u#$b#Wahaha! My, you make me laugh, @!$h#$b#Wahaha, you must've misunderstood.",
 "event-75160105.06": "You see, @... I was talking about my late wife, Ysa's grandmother.#$b#Hmm... You're a good friend, @. I think I can tell you about it.",
-"event-75160105.07": "My wife, Angelika, oh, she was such an amazing soul, I tell you.$h#$b#She had an attitude just like my granddaughter, only a lot more assertive.$h#$b#But she was the kindest, and had the warmest welcoming voice and presence.#$b#It was her who really spearheaded the idea of managing a hotel here in the village.#$b#We were just young teens when she had already planned out this cabin hotel, the location, design, everything!$h#$b#She was amazing... The love of my life, I say.$h#$b#And I miss her dearly...$s",
+"event-75160105.07": "My wife, Angelika, oh, she was such an amazing soul, I tell you.$h#$b#She had an attitude just like my granddaughter, only a lot more assertive.$h#$b#But she was the kindest, and had the warmest welcoming voice and presence.#$b#It was she who really spearheaded the idea of managing a hotel here in the village.#$b#We were just young teens when she had already planned out this cabin hotel; the location, design, everything!$h#$b#She was amazing... The love of my life, I say.$h#$b#And I miss her dearly...$s",
 "event-75160105.08": "She was sick for some time... before she passed away a few years ago. She asked me to make a promise...#$b#She said that when she finally passes, she wants me to spread her ashes around the ridge...$s#$b#She said she wants that because this whole place has given her everything in life... and this place is where she wants to be even after death...$s#$b#And, well... ever since she passed... I...$s",
 "event-75160105.09": "I still have not fulfilled my promise to her...$s#$b#I couldn't bring myself to do so.$s#$b#For so long, I have not found enough strength to let her go...$s",
 "event-75160105.10": "So... That is why I was thinking about ending it.#$b#Ending my petty selfishness, and fulfilling the promise I made to my beloved all those years ago.$s#$b#The reason...?",
@@ -11990,7 +11990,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 "event-75160240.12": "I'll be right back, love.$l",
 "event-75160240.13": "I can't wait!",
 "event-75160240.14": "Ah, she's off.$h#$b#So @, I've prepared all this to actually give you both a chance to have a slow dance alone in a ballroom.#$b#My granddaughter has always dreamed of such a fantasy, especially with someone she holds dear in her heart.#$b#Help me make her happy, won't you?$h",
-"event-75160240.15": "Splendid!$h#$b#Now, I gave her a special dress to wear.#$b#I'm sorry I was not able to prepare one for you.$s",
+"event-75160240.15": "Splendid!$h#$b#Now, I gave her a special dress to wear.#$b#I'm sorry I was not able to prepare an outfit for you.$s",
 "event-75160240.16": "I'll play a song on the speaker system.#$b#You'll get the idea.$h",
 "event-75160240.17": "Love?$l#$b#Well? How do I look?$l",
 "event-75160240.18": "Grandpa, you sly old man.$13#$b#You still remember that silly fantasy I told you before!$13",
@@ -12756,7 +12756,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 // Ysabelle 14 heart event part 1
 "event-75160239.01": "Love!$h#$b#OH MY!$h",
 "event-75160239.02": "Okay, so here's the gist.#$b#Grandpa has been thinking of adding a ballroom for the hotel.#$b#And he recently set up a prototype to see if it would work.#$b#I don't know what he meant by it, but all I know is he invited us both to see it!$h#$b#We'll judge if the design's good or not, something like that.$h",
-"event-75160239.03": "Ah! I'm excited!$h#$b#It's been a while since I've been a ballroom, so pardon my enthusiasm.$13",
+"event-75160239.03": "Ah! I'm excited!$h#$b#It's been a while since I've been to a ballroom, so pardon my enthusiasm.$13",
 "event-75160239.04": "I'll meet you at the Log Cabin Hotel, okay?$h#$b#Let me just prepare some stuff!$h",
 "event-75160239.05": "Oh, nothing much.#$b#Just snacks and whatever.$h#$b#I'll see you there, okay love?$h",
 "event-75160239.06": "A ballroom! Ahh!!!$h",
